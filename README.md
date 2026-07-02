@@ -1,14 +1,10 @@
-# 📊 Retail Sales Analysis Dashboard | Power BI
+# 📊 Retail Sales Analysis Dashboard (Power BI)
 
 ## 📌 Project Overview
 
-This project is an interactive Retail Sales Analysis Dashboard developed using Power BI. It provides valuable business insights by analyzing sales performance across products, categories, sales representatives, and geographical regions.
+This project is an interactive Retail Sales Analysis Dashboard built using Power BI to analyze retail business performance. The dashboard provides insights into revenue, profit, cost, daily sales trends, quarter-over-quarter growth, and month-over-month growth.
 
-The dashboard helps users monitor key performance indicators (KPIs), identify top-performing products, compare sales across different categories, and make data-driven business decisions.
-
----
-
-## 🛠️ Tools & Technologies
+## 🚀 Tools Used
 
 - Power BI
 - SQL
@@ -19,7 +15,7 @@ The dashboard helps users monitor key performance indicators (KPIs), identify to
 
 ## 📂 Dataset
 
-The project uses the following datasets:
+The dashboard is built using multiple datasets:
 
 - Products
 - Categories
@@ -29,26 +25,36 @@ The project uses the following datasets:
 
 ---
 
-## 📈 Dashboard Features
+## 📈 Dashboard Highlights
 
-- Interactive Dashboard
-- KPI Cards
-- Product-wise Sales Analysis
-- Category-wise Analysis
-- Regional Sales Analysis
-- Sales Representative Performance
-- Dynamic Filters & Slicers
+### KPI Dashboard
+- Total Revenue
+- Total Cost
+- Gross Profit
+
+### Daily Sales Analysis
+- Average Revenue Per Day
+- Units Sold
+- Daily Sales Performance
+
+### Quarter-over-Quarter Growth
+- Quarterly Growth Comparison
+- Performance Trend Analysis
+
+### Month-over-Month Growth
+- Monthly Growth Comparison
+- Monthly Performance Trend
 
 ---
 
-## 📊 Skills Demonstrated
+## 💡 Skills Demonstrated
 
 - Data Cleaning
-- Data Transformation
 - Data Modeling
-- Relationships
 - Power Query
-- Dashboard Design
+- DAX Measures
+- KPI Design
+- Dashboard Development
 - Business Intelligence
 - Data Visualization
 
@@ -56,48 +62,29 @@ The project uses the following datasets:
 
 ## 📷 Dashboard Preview
 
-> Dashboard screenshots are available in the **Images** folder.
+### Page 1
+![Dashboard 1](dashboard1.png)
+
+### Page 2
+![Dashboard 2](dashboard2.png)
+
+### Page 3
+![Dashboard 3](dashboard3.png)
+
+### Page 4
+![Dashboard 4](dashboard4.png)
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Files
 
-```
-Retail-Sales-Analysis-PowerBI
-│
-├── PowerBI Dashboard
-│   └── MiniProject2.pbix
-│
-├── Dataset
-│   ├── Products.csv
-│   ├── Categories.xlsx
-│   ├── Geography.xlsx
-│   ├── SalesRep.xlsx
-│   └── SubCategories.xlsx
-│
-├── SQL
-│   └── product query.sql
-│
-├── Images
-│   ├── dashboard1.png
-│   └── dashboard2.png
-│
-└── README.md
-```
-
----
-
-## 🚀 How to Use
-
-1. Download or clone this repository.
-2. Open the `.pbix` file in Microsoft Power BI Desktop.
-3. Refresh the data if required.
-4. Explore the interactive dashboard.
+- MiniProject2.pbix
+- SQL Script
+- Source Datasets
+- Dashboard Screenshots
 
 ---
 
 ## 👨‍💻 Author
 
-**Deepesh Sharma**
-
-If you found this project useful, don't forget to ⭐ the repository.
+Deepesh Sharma
